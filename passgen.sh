@@ -24,7 +24,7 @@ encodecommand="base64"
 #set masterpassword on first run, and remove after generating and setting $masterpasswordhash
 masterpassword="";
 #master password hash = sha1 hash of actual password
-masterpasswordhash="a";
+masterpasswordhash="";
 
 #maximum number of characters in generated password
 maxpasswordlength=32;
